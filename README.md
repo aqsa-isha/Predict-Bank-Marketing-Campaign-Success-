@@ -1,4 +1,4 @@
-"""
+
 # Bank Marketing Campaign Success Prediction
 
 This project focuses on analyzing and predicting the success of a bank's marketing campaigns, specifically to determine whether customers will subscribe to term deposits. The dataset includes various attributes such as demographic, social, and economic information.
